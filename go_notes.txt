@@ -1,0 +1,21 @@
+literals:
+Constants refer to fixed values that the program may not alter during its execution. These fixed values are also called literals.
+Constants can be of any of the basic data types like an integer constant, a floating constant, a character constant, or a string literal. There are also enumeration constants as well.
+Constants are treated just like regular variables except that their values cannot be modified after their definition.
+
+const <Capital Letters> datatype = value
+
+** Note that it is a good programming practice to define constants in CAPITALS.
+
+** Go Key Features:
+1. A Compiled Language
+2. With Semantic Easy to understand and Learn
+3. Statically Typed
+4. With built-in Concurrency
+5. Robut Dependency Management
+6. Garbage Collector
+
+### What is Garbage Collector
+Garabage Collector is a deallocation of memory when not in use.
+
+## Go was Born in 2007 at Google and Initial Release is 2012 i.e Go v1
